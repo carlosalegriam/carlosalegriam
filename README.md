@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **SQL con MySQL Server de Oracle, Oracle Cloud Infrastructure, Android & Kotlin**
 
-- 👨‍💻 All of my projects are available at [calegriam.com](calegriam.com)
+- 👨‍💻 All of my projects are available at [calegriam.com](https://calegriam.com/)
 
 - 💬 Ask me about **Python, Django, Html, CSS, JS, React, PostgreSQL, MySQL**
 

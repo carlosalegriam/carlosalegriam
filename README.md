@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Django, Html, CSS, JS, React, PostgreSQL, MySQL**
 
-- 📫 How to reach me **carlos.alegria.moena@gmail.com**
+- 📫 How to reach me **dev@calegriam.com**
 
 - 📄 Know about my experiences [https://app.aluracursos.com/emprega-one/profile/calegriam](https://app.aluracursos.com/emprega-one/profile/calegriam)
 

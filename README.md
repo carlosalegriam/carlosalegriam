@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Kreatorio](https://kreatorio.com/)
 
-- 🌱 I’m currently learning **SQL con MySQL Server de Oracle, Oracle Cloud Infrastructure, Android & Kotlin**
+- 🌱 I’m currently learning **Java Orientado a Objetos, Java y Spring Framework, SQL con MySQL Server de Oracle, Oracle Cloud Infrastructure, Android & Kotlin**
 
 - 👨‍💻 All of my projects are available at [calegriam.com](https://calegriam.com/)
 
